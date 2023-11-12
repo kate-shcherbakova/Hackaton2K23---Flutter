@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316429966390",
+    "project_id": "hackathon2023-e4fc1",
+    "storage_bucket": "hackathon2023-e4fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316429966390:android:aa3ff812010c2940bb8c97",
+        "android_client_info": {
+          "package_name": "com.example.front"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVF_XrN-kh_Zmu12JDRxyvc_eUl3Cnmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
